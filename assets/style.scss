@@ -153,7 +153,7 @@ table tr td :last-child {
 
 .share-box {
   font-weight: bold;
-  color: #222;
+  color: #c0bca7;
 }
 
 a {
@@ -286,7 +286,7 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #c0bca7;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -301,7 +301,7 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #ADACA3;
   font-size: 16px;
 
   @include mobile {
@@ -445,7 +445,7 @@ body:after {
 
 .author_title{
   text-align: center;
-  color: #939aa1;
+  color: #ADACA3;
   letter-spacing: 2px;
 }
 
