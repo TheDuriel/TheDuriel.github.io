@@ -21,9 +21,9 @@ html {
 }
 
 body {
-  background: #222;
+  background: #FEF5E7; // Global Background Color
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  color: #404040; // Global Text Color
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -81,7 +81,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #222;
+  color: inherit;
 }
 
 p {
