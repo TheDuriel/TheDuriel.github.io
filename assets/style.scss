@@ -28,6 +28,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   height: 100%;
+  background-color: #222222; //new
 }
 
 .container {
@@ -39,7 +40,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: $darkerGray; //$darkerGray
+  color: #c0bca7; //$darkerGray
   font-weight: bold;
 
   line-height: 1.7;
@@ -286,7 +287,7 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: inherit; //$darkGray
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -301,7 +302,7 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: inherit; //$gray
   font-size: 16px;
 
   @include mobile {
@@ -324,7 +325,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: inherit; //darkGray
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -414,7 +415,7 @@ body:after {
 }
 
 #bar {
-    background: #000;
+    background: #c0bca7; //new
     height: 7px;
     background-size: cover;
     background-position: left 60%;
