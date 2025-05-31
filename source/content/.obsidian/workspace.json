@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Banned Patterns - Groups.md",
+                "file": "Nylon/Text Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banned Patterns - Groups"
+              "title": "Text Syntax"
             }
           }
         ]
@@ -172,9 +172,24 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Banned Patterns - Groups.md",
-    "category-folder/TestPage.md",
+    "Nylon/Saving Data.md",
+    "Nylon/Text Syntax.md",
+    "Nylon/Trivia.md",
+    "Nylon/Localization.md",
+    "Nylon/4 First Reader.md",
+    "zzzAttachments/Pasted image 20250601012728.png",
+    "Nylon/3 First Scene.md",
+    "Nylon/2 The Test Reader.md",
+    "zzzAttachments/Pasted image 20250601012628.png",
+    "zzzAttachments/Pasted image 20250601012620.png",
+    "zzzAttachments/Pasted image 20250601012540.png",
+    "zzzAttachments",
+    "Nylon/1 Setup.md",
+    "Nylon/index.md",
+    "Godot/index.md",
+    "Godot/Banned Patterns - Groups.md",
+    "Nylon",
+    "Godot/TestPage.md",
     "category-folder/Godot Resources.md",
     "index.md",
     "zzzAttachments/Pasted image 20250531175644.png",
@@ -197,23 +212,10 @@
     "zNSFW/Pony/Shadowbolt story.md",
     "zNSFW/Pony/How to Scootaloo.md",
     "zNSFW/Pony/Dashterlude.md",
-    "-Misc/Chesterton.md",
-    "-Misc/ARG.md",
-    "zNSFW/Ideas.md",
-    "zNSFW/Pony/Shadows of Equestra.md",
-    "Gate City/Factions.md",
-    "Gate City/Districts.md",
-    "Gate City/Idea.md",
-    "Gate City/Timeline.md",
-    "Gate City/Random.md",
     "-Misc/D&C Plays KH.canvas",
     "zzzAttachments/Pasted image 20230713172455.png",
     "zzzAttachments/Pasted image 20240201063427.png",
     "zzzAttachments/Pasted image 20230807201554.png",
-    "zzzAttachments/Pasted image 20230713172915.png",
-    "zzzAttachments/Pasted image 20230713172620.png",
-    "zzzAttachments/Pasted image 20230713172434.png",
-    "zzzAttachments/Pasted image 20230713172232.png",
     "-Misc/-draft.canvas",
     "Godot/Worktree.canvas",
     "PotionGame/SEO Breakdown.canvas",
@@ -225,8 +227,6 @@
     "Vermeil/Scenes",
     "Ikrand Classic/Dump",
     "zNSFW/YCF",
-    "zNSFW/PET Logs",
-    "Nylon Tutorials",
-    "zNSFW/PET Facility"
+    "zNSFW/PET Logs"
   ]
 }
