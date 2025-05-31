@@ -1,11 +1,22 @@
 ---
-title: My GitHub Pages Notebook!
+title: TheDuriel's website thingy!
 ---
 
-Hello world!
+Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 
-Write some words here!
+### You can contact me at:
 
-This is a test. Lets see it work!
+* GitHub: https://github.com/TheDuriel
+* Twitter:  https://twitter.com/the_duriel
+* Bluesky: https://bsky.app/profile/theduriel.bsky.social
+* Discord: "theduriel"
+* Email: "com dot gmail @ manueldurielfischer" <- Reverse it yourself.
 
-lets gooo!
+### I maintain:
+
+* DurielUtilities https://github.com/TheDuriel/DurielUtilities
+	* A utilities repo for Godot 
+* MagicMacros https://github.com/TheDuriel/MagicMacros
+	* A snipped engine for Godot 
+* Nylon https://theduriel.itch.io/nylon
+	* A commercial deep dialogue addon for Godot

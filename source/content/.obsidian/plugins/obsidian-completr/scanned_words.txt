@@ -779,6 +779,7 @@ registers
 rVx
 rHKt
 rFG
+repo
 dark
 do
 distribute
@@ -2305,6 +2306,7 @@ throbbed
 tagged
 typo
 typed
+theduriel
 zone
 zones
 ziss
@@ -4830,6 +4832,7 @@ sGga
 sHjj
 sAA
 scW
+snipped
 no
 not
 nation
@@ -8110,6 +8113,7 @@ maned
 moonrise
 misremembering
 myg
+manueldurielfischer
 of
 own
 one
@@ -12197,6 +12201,7 @@ banned
 boilerplate
 bNn
 bgY
+blog
 grid
 get
 gate
@@ -12691,6 +12696,7 @@ globalizes
 gQa
 gHDD
 gcM
+gmail
 Types
 Totals
 Temporary
@@ -13805,6 +13811,7 @@ Banned
 BJJKp
 BDDDDDDt
 BDDDDDD
+Bluesky
 Unqiue
 Ur
 UK
@@ -14560,6 +14567,7 @@ ERg
 EIH
 EqQ
 EPVV
+Email
 Present
 Per
 Permanent
@@ -16741,6 +16749,7 @@ Dgs
 DDDd
 DlL
 Daa
+DurielUtilities
 Make
 MaxHealth
 Mainland
@@ -17130,6 +17139,8 @@ MDDDDD
 MLOO
 MBT
 Mjk
+Manuel
+MagicMacros
 Actor
 Accumulated
 Armor
@@ -19731,6 +19742,7 @@ Falmouth
 Function
 FGE
 FDDDD
+Fischer
 QualityBag
 Quality
 Quiets
@@ -20958,6 +20970,7 @@ unfold
 underlying
 uAAA
 uBk
+utilities
 law
 let
 lost
