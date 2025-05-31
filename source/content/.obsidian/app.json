@@ -1,1 +1,10 @@
-{}
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "zzzAttachments",
+  "readableLineLength": true
+}

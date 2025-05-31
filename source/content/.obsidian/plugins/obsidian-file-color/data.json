@@ -1,0 +1,130 @@
+{
+  "palette": [
+    {
+      "id": "tA7gVG0xjvJq3ohyHtLC8",
+      "name": "orange",
+      "value": "#e68619"
+    },
+    {
+      "id": "ycze_s9hW9ZwzTLIq76Ev",
+      "name": "yello",
+      "value": "#d8e619"
+    },
+    {
+      "id": "YtBuklKT5UMbO5m4cAx0R",
+      "name": "moss",
+      "value": "#608619"
+    },
+    {
+      "id": "zkUuw-d7H-_UsKpmTNhte",
+      "name": "green",
+      "value": "#19e635"
+    },
+    {
+      "id": "IxQZe0OTWhm2rmy8lKMFe",
+      "name": "turquoise",
+      "value": "#19e6a1"
+    },
+    {
+      "id": "QDy4P7pSatwWJZ_5OqOJd",
+      "name": "blue",
+      "value": "#19bde6"
+    },
+    {
+      "id": "l_ZBt64mh9oeUl6yvW-kb",
+      "name": "violet",
+      "value": "#bd19e6"
+    },
+    {
+      "id": "-qMH31GSwSlnm4Ny7Tn2A",
+      "name": "red",
+      "value": "#e61935"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "-Misc",
+      "color": "tA7gVG0xjvJq3ohyHtLC8"
+    },
+    {
+      "path": "Gate City",
+      "color": "ycze_s9hW9ZwzTLIq76Ev"
+    },
+    {
+      "path": "Godot",
+      "color": "YtBuklKT5UMbO5m4cAx0R"
+    },
+    {
+      "path": "Ikrand Classic",
+      "color": "zkUuw-d7H-_UsKpmTNhte"
+    },
+    {
+      "path": "Ikrand Stories",
+      "color": "IxQZe0OTWhm2rmy8lKMFe"
+    },
+    {
+      "path": "Nemeton",
+      "color": "QDy4P7pSatwWJZ_5OqOJd"
+    },
+    {
+      "path": "Ramina",
+      "color": "tA7gVG0xjvJq3ohyHtLC8"
+    },
+    {
+      "path": "Thornwood",
+      "color": "ycze_s9hW9ZwzTLIq76Ev"
+    },
+    {
+      "path": "zNSFW",
+      "color": "YtBuklKT5UMbO5m4cAx0R"
+    },
+    {
+      "path": "PotionGame",
+      "color": "l_ZBt64mh9oeUl6yvW-kb"
+    },
+    {
+      "path": "PotionGameStory",
+      "color": "l_ZBt64mh9oeUl6yvW-kb"
+    },
+    {
+      "path": "Ikrand Setting",
+      "color": "QDy4P7pSatwWJZ_5OqOJd"
+    },
+    {
+      "path": "TradeGreedRule",
+      "color": "zkUuw-d7H-_UsKpmTNhte"
+    },
+    {
+      "path": "TextGame",
+      "color": "IxQZe0OTWhm2rmy8lKMFe"
+    },
+    {
+      "path": "Ikrand Campaigns",
+      "color": "QDy4P7pSatwWJZ_5OqOJd"
+    },
+    {
+      "path": "Nylon",
+      "color": "IxQZe0OTWhm2rmy8lKMFe"
+    },
+    {
+      "path": "War on Time",
+      "color": "-qMH31GSwSlnm4Ny7Tn2A"
+    },
+    {
+      "path": "Ikrand Setting 2",
+      "color": "-qMH31GSwSlnm4Ny7Tn2A"
+    },
+    {
+      "path": "Vermeil",
+      "color": "tA7gVG0xjvJq3ohyHtLC8"
+    },
+    {
+      "path": "ADarkTower",
+      "color": "IxQZe0OTWhm2rmy8lKMFe"
+    },
+    {
+      "path": "Nylon Tutorials",
+      "color": "IxQZe0OTWhm2rmy8lKMFe"
+    }
+  ]
+}

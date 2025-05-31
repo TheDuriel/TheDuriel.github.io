@@ -1,3 +1,17 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-file-color",
+  "obsidian-hider",
+  "obsidian-collapse-all-plugin",
+  "ninja-cursor",
+  "obsidian-completr",
+  "obsidian-style-settings",
+  "better-word-count",
+  "optimize-canvas-connections",
+  "close-similar-tabs",
+  "editing-toolbar",
+  "obsidian-advanced-slides",
+  "obsidian-bbcode",
+  "gdscript-syntax-highlighting",
+  "restore-tab-key"
 ]

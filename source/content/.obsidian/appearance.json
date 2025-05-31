@@ -1,1 +1,10 @@
-{}
+{
+  "accentColor": "#d93644",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [],
+  "cssTheme": "obsidian_ia"
+}
