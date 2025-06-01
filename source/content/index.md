@@ -29,7 +29,7 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 	* Darkest Dungeon meets Sunless Sea.
 	* Position: Sole Developer
 
-### This page is source from:
+### This page is sourced from:
 * https://github.com/TheDuriel/TheDuriel.github.io
 	* Edited and authored using Obsidian.md
 	* All contents on my pages are MIT, please credit me if used.
