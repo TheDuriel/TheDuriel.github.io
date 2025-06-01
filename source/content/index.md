@@ -29,6 +29,15 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 	* Darkest Dungeon meets Sunless Sea.
 	* Position: Sole Developer
 
+### Experience
+* 15 Years Graphics Design
+	* Interfaces, Editing, Design, specialty: Maps
+* 8 Years Programming
+	* Godot Engine, GDScript
+	* General Purpose, C#
+* 10 Years Tabletop-TRPG Game Design
+	* Rules Writing, Playtesting, Narrative Design, World Design, Character Design
+
 ### This page is sourced from:
 * https://github.com/TheDuriel/TheDuriel.github.io
 	* Edited and authored using Obsidian.md

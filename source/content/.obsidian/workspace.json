@@ -172,6 +172,10 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
+    "DurielUtilities/ContentProvider.md",
+    "DurielUtilities/index.md",
+    "index.md",
+    "DurielUtilities",
     "Godot/The i prefix.md",
     "Godot/Naming Things.md",
     "Godot/Do not use - Groups.md",
@@ -179,7 +183,6 @@
     "zzzAttachments/Pasted image 20250531175644.png",
     "zzzAttachments/Pasted image 20250531175516.png",
     "zzzAttachments/Pasted image 20250531173841.png",
-    "index.md",
     "zzzAttachments/Pasted image 20250601012728.png",
     "zzzAttachments/Pasted image 20250601012628.png",
     "zzzAttachments/Pasted image 20250601012620.png",
@@ -210,8 +213,6 @@
     "Nylon/Overview.canvas",
     "-Misc/Artists.md",
     "Vermeil/Scenes/aaa - Transparency.md",
-    "zNSFW/Cyber Kino.md",
-    "zNSFW/Tayko.md",
     "-Misc/D&C Plays KH.canvas",
     "zzzAttachments/Pasted image 20230713172455.png",
     "zzzAttachments/Pasted image 20240201063427.png",
@@ -226,7 +227,6 @@
     "zNSFW/PET GAME",
     "Vermeil/Scenes",
     "Ikrand Classic/Dump",
-    "zNSFW/YCF",
-    "zNSFW/PET Logs"
+    "zNSFW/YCF"
   ]
 }

@@ -8167,6 +8167,7 @@ myg
 manueldurielfischer
 mmmff
 mZZ
+meets
 of
 own
 one
@@ -10521,6 +10522,7 @@ prmcn
 pdLJ
 plmmmk
 prototyping
+puzzle
 close
 circles
 can
@@ -11565,6 +11567,7 @@ cNN
 ccc
 cccC
 ciiI
+credit
 blank
 be
 behind
@@ -12781,6 +12784,7 @@ gmail
 gODDDNNNs
 gMMM
 gamejams
+gatherer
 Types
 Totals
 Temporary
@@ -14673,6 +14677,7 @@ Expected
 ELHe
 Eari
 EQbbb
+Edited
 Present
 Per
 Permanent
@@ -15148,6 +15153,7 @@ PRRRQQ
 PcW
 PXc
 Pattern
+Programmer
 One
 Order
 Outside
@@ -16079,6 +16085,7 @@ SUU
 SRRL
 SRR
 SSS
+Sole
 Virtual
 Value
 Victory
@@ -16873,6 +16880,10 @@ Daa
 DurielUtilities
 DGG
 DCCCf
+Darkest
+Dungeon
+Developer
+DefenderOfBasic
 Make
 MaxHealth
 Mainland
@@ -20186,6 +20197,7 @@ QDZd
 QQa
 QQQw
 QQQYYY
+Quartz
 Chesterton
 Catholic
 Cult
@@ -20709,6 +20721,7 @@ CCC
 CII
 Ccg
 CBB
+Created
 until
 understood
 us
