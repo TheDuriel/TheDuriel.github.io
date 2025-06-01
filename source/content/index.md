@@ -28,3 +28,11 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 * Nemeton
 	* Darkest Dungeon meets Sunless Sea.
 	* Position: Sole Developer
+
+### This page is source from:
+* https://github.com/TheDuriel/TheDuriel.github.io
+	* Edited and authored using Obsidian.md
+	* All contents on my pages are MIT, please credit me if used.
+* https://github.com/DefenderOfBasic/obsidian-quartz-template
+	* Quartz Template for Obsidian
+	* Created by DefenderOfBasic
