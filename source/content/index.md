@@ -20,3 +20,11 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 	* A snipped engine for Godot 
 * Nylon https://theduriel.itch.io/nylon
 	* A commercial deep dialogue addon for Godot
+
+### My game projects are:
+* NotUs https://store.steampowered.com/app/2234670/Not_Us/
+	* A puzzle survival resource gatherer.
+	* Position: Lead Programmer, Additional Game Design
+* Nemeton
+	* Darkest Dungeon meets Sunless Sea.
+	* Position: Sole Developer
