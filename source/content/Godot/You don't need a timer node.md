@@ -45,8 +45,7 @@ Instead of running "during the 6ths tick" your timer "misses", and runs a whole 
 **How do we fix this?**
 By pretending that, each tick is actually the time of the next frame, and simulating additional sub-ticks.
 
-```
-GDScript
+```GDScript
 const WAIT_TIME: float = 1.0
 var _t: float = 0.0
 
@@ -81,6 +80,7 @@ func do_something() -> void:
 | 9    | 149.94 |                          |
 | 10   | 166.6  |                          |
 | 11   | 183.26 |                          |
+
 Huraa, we're now calling our function on the "correct" tick. And are **preventing drift.**
 
 | Tick | Delta  | Callback                 |
@@ -100,6 +100,7 @@ Huraa, we're now calling our function on the "correct" tick. And are **preventin
 | 12   | 199.92 | True (in the half frame) |
 | 13   | 216.58 | Previously True          |
 | 14   | 233.24 |                          |
+
 If it's not evident: Drift refers to the fact that the timing offset from missing ticks "adds" up. Eventually leading to the **number of ticks between calls** changing, as the error wraps around to one whole tick worth of delta.
 
 At 100ms this is almost irrelevant. But there are scenarios in games in which this comes up. Propose you have a character that attacks 2.5 times a second. And a game that runs at a tick rate of 30. That means you need to sync 2.5 times, with time steps of 33.33. Suffice to say, Neither 1, nor 2.5, cleanly divides by 0.033.
