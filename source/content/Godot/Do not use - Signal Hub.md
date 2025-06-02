@@ -1,13 +1,10 @@
-# Do not use: Signal Hub
-
-
-**What is a Signal Hub?**
+## What is a Signal Hub?
 The Signal Hub is a popular pattern in Godot, proposed as a means of decoupling objects and allowing you to sidestep the scene hierarchy for node to node communication. Signals themselves are nothing but delegeate/events from C#, or similar anonymous function call subscription patterns.
 
-**How are they used?**
+## How are they used?
 The typical Signal Hub is an Autoload script which contains a list of signals. This publicly exposes all signals to all objects in the engine. Creating one common point of communication.
 
-**Why are they banned?**
+## Why are they banned?
 
 * Messy
 Signals Hubs move connections to one location. Where previously only objects A and B were coupled, now the coupling extends through A -> C -> B, with C being visible to an infinite number of other objects that aren't part of the **responsibilities** of A or B. Or in other words: All the spaghetti, now goes through a single knot. Spitting the plate into two half servings of spaghetti where the ends have all been stuck into the same meat ball.

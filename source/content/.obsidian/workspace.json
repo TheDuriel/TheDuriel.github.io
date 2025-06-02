@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/How to actually use LERP.md",
+                "file": "Godot/You don't need a timer node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to actually use LERP"
+              "title": "You don't need a timer node"
             }
           }
         ]
@@ -172,16 +172,17 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "Godot/You don't need a timer node.md",
+    "Godot/The i prefix.md",
+    "Godot/Naming Things.md",
+    "Godot/index.md",
     "Godot/How to actually use LERP.md",
+    "Godot/Do not use - Signal Hub.md",
+    "Godot/Do not use - Groups.md",
+    "Godot/You don't need a timer node.md",
     "index.md",
     "DurielUtilities/ContentProvider.md",
     "DurielUtilities/index.md",
     "DurielUtilities",
-    "Godot/The i prefix.md",
-    "Godot/Naming Things.md",
-    "Godot/Do not use - Groups.md",
-    "Godot/Do not use - Signal Hub.md",
     "zzzAttachments/Pasted image 20250531175644.png",
     "zzzAttachments/Pasted image 20250531175516.png",
     "zzzAttachments/Pasted image 20250531173841.png",
@@ -199,7 +200,6 @@
     "Nylon/2 The Test Reader.md",
     "zzzAttachments",
     "Nylon/index.md",
-    "Godot/index.md",
     "Nylon",
     "Godot/TestPage.md",
     "category-folder/Godot Resources.md",

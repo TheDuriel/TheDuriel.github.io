@@ -1,5 +1,3 @@
-# How to actually use lerp
-
 This applies to all types of lerp(), as well as all types of slerp().
 
 Note that this is **very** similar to an implementation of a linear tween. And that isn't a coincidence. All the Tween node does, is abstract this away, and repeat the operation over a fixed time. Fancy easings are achieved by multiplying the delta/weight with some curve.

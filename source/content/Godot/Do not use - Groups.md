@@ -1,4 +1,3 @@
-# Do not use: Groups
 A banned pattern is a programming or design pattern, or engine feature, which I have banned from use in all my own projects. Usually this is first and foremost, because I wasn't using them to begin with.
 
 Despite the name, you should feel free to still use these features for: Leaning, prototyping, gamejams, and maybe even smaller games and vertical slices. Get the job done first. Just be aware that by using these things, you invite more work.
