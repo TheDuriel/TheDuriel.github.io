@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Godot/You don't need a timer node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "You don't need a timer node"
             }
           }
         ]
@@ -172,9 +172,10 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
+    "index.md",
+    "Godot/You don't need a timer node.md",
     "DurielUtilities/ContentProvider.md",
     "DurielUtilities/index.md",
-    "index.md",
     "DurielUtilities",
     "Godot/The i prefix.md",
     "Godot/Naming Things.md",
@@ -212,7 +213,6 @@
     "Godot/Banned Features",
     "Nylon/Overview.canvas",
     "-Misc/Artists.md",
-    "Vermeil/Scenes/aaa - Transparency.md",
     "-Misc/D&C Plays KH.canvas",
     "zzzAttachments/Pasted image 20230713172455.png",
     "zzzAttachments/Pasted image 20240201063427.png",

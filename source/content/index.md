@@ -4,7 +4,7 @@ title: TheDuriel's website thingy!
 
 Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 
-### You can contact me at:
+### Find Me
 
 * GitHub: https://github.com/TheDuriel
 * Twitter:  https://twitter.com/the_duriel
@@ -12,7 +12,7 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 * Discord: "theduriel"
 * Email: "com dot gmail @ manueldurielfischer" <- Reverse it yourself.
 
-### I maintain:
+### Tool Projects
 
 * DurielUtilities https://github.com/TheDuriel/DurielUtilities
 	* A utilities repo for Godot 
@@ -21,7 +21,7 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 * Nylon https://theduriel.itch.io/nylon
 	* A commercial deep dialogue addon for Godot
 
-### My game projects are:
+### Game Projects
 * NotUs https://store.steampowered.com/app/2234670/Not_Us/
 	* A puzzle survival resource gatherer.
 	* Position: Lead Programmer, Additional Game Design
@@ -38,10 +38,10 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 * 10 Years Tabletop-TRPG Game Design
 	* Rules Writing, Playtesting, Narrative Design, World Design, Character Design
 
-### This page is sourced from:
+### Credits & License
 * https://github.com/TheDuriel/TheDuriel.github.io
 	* Edited and authored using Obsidian.md
-	* All contents on my pages are MIT, please credit me if used.
+	* All contents on my pages are MIT, please credit me if used verbatem.
 * https://github.com/DefenderOfBasic/obsidian-quartz-template
 	* Quartz Template for Obsidian
 	* Created by DefenderOfBasic
