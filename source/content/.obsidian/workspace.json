@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/You don't need a timer node.md",
+                "file": "Godot/How to actually use LERP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You don't need a timer node"
+              "title": "How to actually use LERP"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "index.md",
     "Godot/You don't need a timer node.md",
+    "Godot/How to actually use LERP.md",
+    "index.md",
     "DurielUtilities/ContentProvider.md",
     "DurielUtilities/index.md",
     "DurielUtilities",
@@ -212,7 +213,6 @@
     "-Misc/Anime Watchlist.md",
     "Godot/Banned Features",
     "Nylon/Overview.canvas",
-    "-Misc/Artists.md",
     "-Misc/D&C Plays KH.canvas",
     "zzzAttachments/Pasted image 20230713172455.png",
     "zzzAttachments/Pasted image 20240201063427.png",
