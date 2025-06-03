@@ -46,22 +46,32 @@ Instead of running "during the 6ths tick" your timer "misses", and runs a whole 
 By pretending that, each tick is actually the time of the next frame, and simulating additional sub-ticks.
 
 ```GDScript
-const WAIT_TIME: float = 1.0
-var _t: float = 0.0
+const MAX_TICKS: int = 300 # Process Ticks
+const WAIT_TIME: float = 0.100 # In seconds
+var tick: int = 0 # Elapsed Process Ticks
+var time: float = 0.0 # Accumulated Delta
+
+var result: Array[int] = [] # Array of ticks on which a func was called
+
+func _process(delta: float) -> void:
+	tick += 1
+	time += delta
+	
+	if time >= WAIT_TIME:
+		time -= WAIT_TIME
+		count()
+	if time + (delta * 0.5) >= WAIT_TIME:
+		time -= WAIT_TIME + (delta * 0.5)
+		count()
+	
+	if tick >= 300:
+		set_process(false)
+		print("Method 3:")
+		print(result)
 
 
-func _process(delta) -> void:
-	_t += delta
-	if _t >= WAIT_TIME:
-		_t -= WAIT_TIME
-		do_something()
-	ellif _t + (delta * 0.5) >= WAIT_TIME:
-		_t -= WAIT_TIME + (delta * 0.5)
-		do_something()
-
-
-func do_something() -> void:
-	print("Timer tick.")
+func count() -> void:
+	result.append(tick)
 ```
 
 **This is not, the right way to do it.** But you should be able to see what's going on here. We pretend if a little extra time has passed. Equal to half a tick.
@@ -106,3 +116,6 @@ If it's not evident: Drift refers to the fact that the timing offset from missin
 At 100ms this is almost irrelevant. But there are scenarios in games in which this comes up. Propose you have a character that attacks 2.5 times a second. And a game that runs at a tick rate of 30. That means you need to sync 2.5 times, with time steps of 33.33. Suffice to say, Neither 1, nor 2.5, cleanly divides by 0.033.
 
 This btw is why in the video game Arknights, the character Thorns, will attack less times in total at higher game speeds. Since the game simply increases the delta for each tick, rather than simulating additional ticks. **Playing at higher speeds results in more ticks being missed.** And thus auto deploy can fail, due to the significant loss in DPS.
+
+Changelog:
+1. Updated the code example with tested code.
