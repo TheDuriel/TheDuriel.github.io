@@ -1560,6 +1560,8 @@ dgg
 dLBA
 divides
 deceleration
+drafts
+determines
 to
 too
 triangle
@@ -2313,6 +2315,7 @@ thingy
 timer
 ths
 tween
+transformation
 zone
 zones
 ziss
@@ -3073,6 +3076,7 @@ wyY
 wHZc
 website
 wraps
+writer
 Welcome
 Where
 Why
@@ -4859,6 +4863,9 @@ smallest
 simulating
 speeds
 slerp
+subtype
+substitution
+speaker
 no
 not
 nation
@@ -5264,6 +5271,7 @@ nwVV
 njj
 nnnbb
 nth
+nested
 hopes
 had
 has
@@ -6592,6 +6600,8 @@ aMQb
 aIIIQQ
 abstract
 acceleration
+auxiliary
+appearances
 expectations
 every
 entity
@@ -7278,6 +7288,8 @@ ett
 executing
 error
 easings
+enables
+emits
 you
 your
 yours
@@ -8616,6 +8628,8 @@ oRS
 ocQ
 oRn
 opppssS
+owns
+overridden
 is
 in
 inside
@@ -9240,6 +9254,8 @@ irrelevant
 increases
 instanced
 ideally
+invoked
+iterate
 volition
 values
 value
@@ -10536,6 +10552,8 @@ prototyping
 puzzle
 pitfall
 percentages
+programmer
+proceed
 close
 circles
 can
@@ -11585,6 +11603,9 @@ clarity
 cleanly
 coincidence
 configuring
+component
+csv
+coding
 blank
 be
 behind
@@ -12303,6 +12324,9 @@ bXH
 bXd
 bXD
 bXc
+bbcode
+belongs
+begins
 grid
 get
 gate
@@ -12802,6 +12826,7 @@ gODDDNNNs
 gMMM
 gamejams
 gatherer
+generator
 Types
 Totals
 Temporary
@@ -13241,6 +13266,8 @@ Tick
 True
 Thorns
 Tween
+Transformation
+TextStyle
 qualities
 quality
 quotation
@@ -13929,6 +13956,7 @@ Bhh
 Bme
 BCC
 Bbb
+Bubble
 Unqiue
 Ur
 UK
@@ -15174,6 +15202,7 @@ Pattern
 Programmer
 Previously
 Propose
+ParserFeatures
 One
 Order
 Outside
@@ -16107,6 +16136,7 @@ SRR
 SSS
 Sole
 Suffice
+Similarly
 Virtual
 Value
 Victory
@@ -16906,6 +16936,7 @@ Dungeon
 Developer
 DefenderOfBasic
 Delta
+Defaults
 Make
 MaxHealth
 Mainland
@@ -17305,6 +17336,7 @@ MNN
 MISSED
 Mario
 MyNode
+Message
 Actor
 Accumulated
 Armor
@@ -18878,6 +18910,7 @@ HMM
 HgP
 HNN
 Huraa
+Hopefully
 Numeric
 Neighboring
 No
@@ -20754,6 +20787,8 @@ Ccg
 CBB
 Created
 Callback
+Components
+Condition
 until
 understood
 us
@@ -21718,6 +21753,7 @@ llL
 lccc
 lerp
 lerping
+lookup
 Go
 Germany
 Goals
@@ -23130,6 +23166,7 @@ RBW
 RSS
 RZF
 RXX
+RPGMaker
 knew
 knowledge
 key
