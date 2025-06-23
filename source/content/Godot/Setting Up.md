@@ -6,13 +6,13 @@ This is how I start a new Godot project.
 3. run `git lfs install`
 4. copy the .gitignore in (see below)
 5. copy the .gitattributes in (see below)
-6. commit these changes `git commit`
+6. commit these changes
 7. create a new file called `project.godot` (it will be empty)
 8. open the folder in godot
 9. rename the project in the project settings
-10. commit these changes `git commit`
+10. commit these changes
 11. optional: within godot, run the setup script (see below) 
-12. commit these changes `git commit` ;P
+12. commit these changes ;P
 
 # .gitignore
 ```
