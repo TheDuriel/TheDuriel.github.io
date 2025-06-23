@@ -10,7 +10,9 @@ This is how I start a new Godot project.
 7. create a new file called `project.godot` (it will be empty)
 8. open the folder in godot
 9. rename the project in the project settings
-10. optional: within godot, run the setup script (see below) 
+10. commit these changes `git commit`
+11. optional: within godot, run the setup script (see below) 
+12. commit these changes `git commit` ;P
 
 # .gitignore
 ```
