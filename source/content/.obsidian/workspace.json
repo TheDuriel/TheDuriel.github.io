@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nylon/Nylon Explained.md",
+                "file": "Godot/Setting Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nylon Explained"
+              "title": "Setting Up"
             }
           }
         ]
@@ -172,9 +172,10 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
+    "Nylon/Nylon Explained.md",
+    "Godot/Setting Up.md",
     "Nylon/Using C-Sharp.md",
     "Nylon/Why Nylon is called that.md",
-    "Nylon/Nylon Explained.md",
     "Godot/You don't need a timer node.md",
     "Godot/The i prefix.md",
     "Godot/Naming Things.md",
@@ -207,7 +208,6 @@
     "Godot/TestPage.md",
     "category-folder/Godot Resources.md",
     "Godot/Banned Features/Signal Hub.md",
-    "Godot/Banned Features/Groups.md",
     "Godot/-Architecture.canvas",
     "Godot/-Draft.canvas",
     "Godot/-Tut.canvas",
