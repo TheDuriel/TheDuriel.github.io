@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/Saving and Loading.md",
+                "file": "Godot/TestCanvasEmbedd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saving and Loading"
+              "title": "TestCanvasEmbedd"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "Godot/Setting Up.md",
+    "Godot/TestCanvas.canvas",
+    "Godot/TestCanvasEmbedd.md",
     "Godot/Saving and Loading.md",
+    "Godot/Setting Up.md",
     "Nylon/Nylon Explained.md",
     "Nylon/Using C-Sharp.md",
     "Nylon/Why Nylon is called that.md",
@@ -206,8 +208,6 @@
     "zzzAttachments",
     "Nylon/index.md",
     "Nylon",
-    "Godot/TestPage.md",
-    "category-folder/Godot Resources.md",
     "Godot/-Architecture.canvas",
     "Godot/-Draft.canvas",
     "Godot/-Tut.canvas",
@@ -223,7 +223,6 @@
     "Nemeton/Items",
     "Nemeton/-Canvas.canvas",
     "zNSFW/Pony",
-    "Godot/UtilityAI.canvas",
     "zNSFW/PET GAME",
     "Vermeil/Scenes",
     "Ikrand Classic/Dump",
