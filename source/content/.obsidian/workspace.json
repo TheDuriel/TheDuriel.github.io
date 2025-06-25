@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/TestCanvasEmbedd.md",
+                "file": "Godot/Accessing Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TestCanvasEmbedd"
+              "title": "Accessing Things"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
+    "zzzAttachments/Pasted image 20250625170135.png",
+    "Godot/You don't need a timer node.md",
+    "Godot/Accessing Things.md",
     "Godot/TestCanvas.canvas",
     "Godot/TestCanvasEmbedd.md",
     "Godot/Saving and Loading.md",
@@ -179,7 +182,6 @@
     "Nylon/Nylon Explained.md",
     "Nylon/Using C-Sharp.md",
     "Nylon/Why Nylon is called that.md",
-    "Godot/You don't need a timer node.md",
     "Godot/The i prefix.md",
     "Godot/Naming Things.md",
     "Godot/index.md",
@@ -206,7 +208,6 @@
     "Nylon/3 First Scene.md",
     "Nylon/2 The Test Reader.md",
     "zzzAttachments",
-    "Nylon/index.md",
     "Nylon",
     "Godot/-Architecture.canvas",
     "Godot/-Draft.canvas",

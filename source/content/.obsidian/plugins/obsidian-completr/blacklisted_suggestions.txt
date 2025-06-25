@@ -86,3 +86,8 @@ Household
 households
 real
 World
+speed
+sPE
+Speei
+spear
+Speed
