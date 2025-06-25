@@ -17,7 +17,7 @@ The biggest risk here is the "pointer problem". What if you have an Object A, wh
 
 Identifiers come to the rescue here.
 
-```
+```GDScript
 class_name Cable
 # Imagine a cable connecting an Outlet to a Machine
 # The player can edit place Cables in the world, and define these connections.
