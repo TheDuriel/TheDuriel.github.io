@@ -1,7 +1,6 @@
+![[Pasted image 20250625170135.png]]
 # A Node
 So you want to access the properties or functions of another Node?
-
-![[Pasted image 20250625170135.png]]
 
 ### In the same Scene
 If you can see the node in the same scene as the one from which you are trying to access it. Use @export
