@@ -172,7 +172,7 @@ But consider that:
 * JSON does not allow storing statically typed dictionaries and arrays.
 * JSON is much slower to generate and load the larger your file gets.
 * JSON isn't actually very human readable.
-* JSON is incapable of storing actual  objects. 2.
+* JSON is incapable of storing actual objects. 2.
 
 1. Godot has made improvements to its JSON parser to allow for some Godot types to be stored 'more reliably'. At the cost of compatibility with other JSON format reader libraries.
 
