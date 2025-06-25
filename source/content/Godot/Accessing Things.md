@@ -1,3 +1,5 @@
+This page replaces "howtoscenetree.png" and "howtoscenetree2.png" If you know them. Delete them. @export reigns supreme in Godot 4.
+
 ![[Pasted image 20250625170135.png]]
 # A Node
 So you want to access the properties or functions of another Node?
