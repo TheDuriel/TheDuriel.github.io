@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/Setting Up.md",
+                "file": "Godot/Saving and Loading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting Up"
+              "title": "Saving and Loading"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "Nylon/Nylon Explained.md",
     "Godot/Setting Up.md",
+    "Godot/Saving and Loading.md",
+    "Nylon/Nylon Explained.md",
     "Nylon/Using C-Sharp.md",
     "Nylon/Why Nylon is called that.md",
     "Godot/You don't need a timer node.md",
@@ -207,7 +208,6 @@
     "Nylon",
     "Godot/TestPage.md",
     "category-folder/Godot Resources.md",
-    "Godot/Banned Features/Signal Hub.md",
     "Godot/-Architecture.canvas",
     "Godot/-Draft.canvas",
     "Godot/-Tut.canvas",
