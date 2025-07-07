@@ -32,8 +32,9 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 ### Experience
 * 15 Years Graphics Design
 	* Interfaces, Editing, Design, specialty: Maps
+	* Photoshop, Affinity Designer & Publisher, Blender
 * 8 Years Programming
-	* Godot Engine, GDScript
+	* Godot Engine, GDScript & C#
 	* General Purpose, C#
 * 10 Years Tabletop-TRPG Game Design
 	* Rules Writing, Playtesting, Narrative Design, World Design, Character Design
@@ -41,7 +42,7 @@ Hello world! This the personal blog of Manuel 'TheDuriel' Fischer.
 ### Credits & License
 * https://github.com/TheDuriel/TheDuriel.github.io
 	* Edited and authored using Obsidian.md
-	* All contents on my pages are MIT, please credit me if used verbatem.
+	* All contents on my pages are MIT, please credit me if used verbatim.
 * https://github.com/DefenderOfBasic/obsidian-quartz-template
 	* Quartz Template for Obsidian
 	* Created by DefenderOfBasic

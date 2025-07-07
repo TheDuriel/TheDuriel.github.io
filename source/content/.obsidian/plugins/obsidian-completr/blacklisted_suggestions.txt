@@ -91,3 +91,4 @@ sPE
 Speei
 spear
 Speed
+theduriel

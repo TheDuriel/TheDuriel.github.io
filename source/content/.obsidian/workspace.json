@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/Do not use - Signal Hub.md",
+                "file": "TheTemplate/Saving Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Do not use - Signal Hub"
+              "title": "Saving Games"
             }
           }
         ]
@@ -172,6 +172,12 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
+    "TheTemplate/User Profiles.md",
+    "TheTemplate/Saving Games.md",
+    "TheTemplate/index.md",
+    "index.md",
+    "TheTemplate",
+    "Godot/Do not use - Signal Hub.md",
     "Godot/Do not use - Groups.md",
     "Godot/Accessing Things.md",
     "zzzAttachments/Pasted image 20250625170135.png",
@@ -187,8 +193,6 @@
     "Godot/Naming Things.md",
     "Godot/index.md",
     "Godot/How to actually use LERP.md",
-    "Godot/Do not use - Signal Hub.md",
-    "index.md",
     "DurielUtilities/ContentProvider.md",
     "DurielUtilities/index.md",
     "DurielUtilities",
@@ -205,8 +209,6 @@
     "Nylon/Trivia.md",
     "Nylon/Localization.md",
     "Nylon/4 First Reader.md",
-    "Nylon/3 First Scene.md",
-    "Nylon/2 The Test Reader.md",
     "zzzAttachments",
     "Nylon",
     "Godot/-Architecture.canvas",
@@ -225,7 +227,6 @@
     "zNSFW/Pony",
     "zNSFW/PET GAME",
     "Vermeil/Scenes",
-    "Ikrand Classic/Dump",
-    "zNSFW/YCF"
+    "Ikrand Classic/Dump"
   ]
 }
