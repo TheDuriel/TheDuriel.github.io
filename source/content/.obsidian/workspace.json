@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheTemplate/Saving Games.md",
+                "file": "TheTemplate/Sound and Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saving Games"
+              "title": "Sound and Music"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "TheTemplate/User Profiles.md",
     "TheTemplate/Saving Games.md",
+    "TheTemplate/Sound and Music.md",
+    "TheTemplate/User Profiles.md",
     "TheTemplate/index.md",
     "index.md",
     "TheTemplate",
@@ -208,7 +209,6 @@
     "Nylon/Saving Data.md",
     "Nylon/Trivia.md",
     "Nylon/Localization.md",
-    "Nylon/4 First Reader.md",
     "zzzAttachments",
     "Nylon",
     "Godot/-Architecture.canvas",
