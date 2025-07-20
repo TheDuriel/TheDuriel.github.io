@@ -165,8 +165,9 @@ The minimum required code here is as follows:
 
 
 func _message_text(m: NylonMessageText) -> void:
-	if m.clear_previous:
-		text_label.clear()
+	if m.style is NylonTextStyleNovel:
+		if m.style.clear_previous:
+			text_label.clear()
 	
 	text_label.text = m.text
 ```
@@ -175,7 +176,7 @@ If you are planning on having one continuous text scroll. Like for example in a 
 
 The default NylonTextStyle contains no properties. It is designed for you to be extended as needed.
 
-The res://Nylon/TextStyles/ directory contains example base classes for Paragraph style Novels, Speech Bubbles, and Inter Titles.
+The `res://Nylon/TextStyles/` directory contains example base classes for Paragraph style Novels, Speech Bubbles, and Inter Titles.
 
 For our example here, we make the assumption that you are using the Novel style with the following properties:
 
