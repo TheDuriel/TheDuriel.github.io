@@ -27,7 +27,7 @@ Copy the Nylon/ directory to the root directory of your Godot Game project.
 
 Optionally do the same with the addons/ and NylonContent/ directory.
 
-Note: It is possible to install Nylon/ to a different subdirectory within your project, however you may be required to editor Nylon.gd to gain full functionality. Keep reading to find out why.
+Note: It is possible to install Nylon/ to a different subdirectory within your project, however you may be required to edit Nylon.gd to gain full functionality. Keep reading to find out why.
 
 ### 5. Configuring Nylon
 To enable Nylon within your Godot project, open the Project Settings -> Autoloads and add Nylon/Nylon.gd as an autoload with the name 'Nylon'.

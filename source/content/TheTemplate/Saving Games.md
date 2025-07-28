@@ -78,7 +78,7 @@ If instead of using the gather and apply functions you prefer to put and fetch d
 App.save.stage_bool("tutorial_completed", true)
 
 # Retrieve the value later.
-var tutorial_enabled: bool = App.save..get_bool("tutorial_completed", false)
+var tutorial_enabled: bool = App.save.get_bool("tutorial_completed", false)
 ```
 
 # Creating Save Files

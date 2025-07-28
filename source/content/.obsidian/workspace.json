@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nylon/4 First Reader.md",
+                "file": "Godot/Do not use - Preload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 First Reader"
+              "title": "Do not use - Preload"
             }
           }
         ]
@@ -172,8 +172,11 @@
   },
   "active": "235c0e1c7cda6868",
   "lastOpenFiles": [
-    "TheTemplate/Sound and Music.md",
     "TheTemplate/Saving Games.md",
+    "Godot/Do not use - Preload.md",
+    "Nylon/1 Setup.md",
+    "Nylon/4 First Reader.md",
+    "TheTemplate/Sound and Music.md",
     "TheTemplate/User Profiles.md",
     "TheTemplate/index.md",
     "index.md",
@@ -204,11 +207,8 @@
     "zzzAttachments/Pasted image 20250601012628.png",
     "zzzAttachments/Pasted image 20250601012620.png",
     "zzzAttachments/Pasted image 20250601012540.png",
-    "Nylon/1 Setup.md",
     "Nylon/Text Syntax.md",
     "Nylon/Saving Data.md",
-    "Nylon/Trivia.md",
-    "Nylon/Localization.md",
     "zzzAttachments",
     "Nylon",
     "Godot/-Architecture.canvas",
