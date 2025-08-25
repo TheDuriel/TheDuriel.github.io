@@ -13,5 +13,6 @@
   "obsidian-advanced-slides",
   "obsidian-bbcode",
   "gdscript-syntax-highlighting",
-  "restore-tab-key"
+  "restore-tab-key",
+  "cursor-position-history"
 ]

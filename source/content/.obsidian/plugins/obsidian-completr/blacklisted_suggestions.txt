@@ -92,3 +92,7 @@ Speei
 spear
 Speed
 theduriel
+Bit
+bite
+bits
+BITD
