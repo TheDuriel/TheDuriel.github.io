@@ -789,6 +789,9 @@ refers
 rate
 recursive
 responsive
+restore
+rescue
+reliably
 dark
 do
 distribute
@@ -1565,6 +1568,11 @@ drafts
 determines
 delete
 dictionary
+dictionaries
+differentiate
+debugging
+decompose
+deleting
 to
 too
 triangle
@@ -4874,6 +4882,18 @@ savegame
 saves
 staged
 sequencing
+saving
+structured
+struct
+saveable
+simplify
+screenshot
+skyrim
+statically
+slower
+serialize
+serialization
+simplest
 no
 not
 nation
@@ -6607,6 +6627,10 @@ auxiliary
 appearances
 appdata
 autosaves
+article
+autosave
+arrays
+annotate
 expectations
 every
 entity
@@ -8192,6 +8216,7 @@ meets
 misses
 multiplying
 mixing
+modify
 of
 own
 one
@@ -9265,6 +9290,12 @@ ideally
 invoked
 iterate
 implemented
+instantiation
+instantiating
+instantiate
+ints
+incapable
+improvements
 volition
 values
 value
@@ -9662,6 +9693,7 @@ video
 velocity
 verbatem
 verbatim
+vector
 place
 points
 part
@@ -10567,6 +10599,9 @@ programmer
 proceed
 preferences
 playthroughs
+pointer
+principal
+packages
 close
 circles
 can
@@ -11619,6 +11654,11 @@ configuring
 component
 csv
 coding
+completing
+complicate
+collects
+compatibility
+caveat
 blank
 be
 behind
@@ -12341,6 +12381,7 @@ bbcode
 belongs
 begins
 backups
+blob
 grid
 get
 gate
@@ -12842,6 +12883,7 @@ gamejams
 gatherer
 generator
 grouped
+generates
 Types
 Totals
 Temporary
@@ -15229,6 +15271,8 @@ ParserFeatures
 Programming
 Playtesting
 Publisher
+Pointer
+Personally
 One
 Order
 Outside
@@ -15502,6 +15546,7 @@ OqQ
 OJJ
 Owww
 Overrides
+Objects
 Source
 SomeEvent
 Stennes
@@ -16164,6 +16209,8 @@ Suffice
 Similarly
 Saves
 Sava
+Serializing
+Storing
 Virtual
 Value
 Victory
@@ -16965,6 +17012,7 @@ DefenderOfBasic
 Delta
 Defaults
 Data
+Done
 Make
 MaxHealth
 Mainland
@@ -17828,6 +17876,7 @@ Aei
 Autosave
 Applying
 AppSaveData
+Apply
 from
 func
 fence
@@ -18567,6 +18616,8 @@ fffBB
 fdd
 fps
 fetch
+flatten
+floats
 Health
 Homes
 Hacker
@@ -19637,6 +19688,8 @@ Imagine
 Interfaces
 Important
 Importantly
+Identifiers
+Instantiating
 From
 For
 Foundations
@@ -21257,6 +21310,7 @@ uuU
 uZZ
 unrealistic
 unix
+username
 law
 let
 lost
@@ -21793,6 +21847,7 @@ lerp
 lerping
 lookup
 looping
+libraries
 Go
 Germany
 Goals
@@ -22476,6 +22531,7 @@ LII
 Leaning
 Lets
 License
+Loading
 just
 journey
 joining
@@ -22770,6 +22826,7 @@ jru
 jkk
 jUii
 juTT
+json
 Rome
 Retrieves
 Ramina
@@ -23210,6 +23267,8 @@ RZF
 RXX
 RPGMaker
 Rules
+Regardless
+Retrieving
 knew
 knowledge
 key
@@ -24522,6 +24581,7 @@ JMM
 Juu
 JNNv
 JXOEG
+JSON
 XP
 Xip
 Xn

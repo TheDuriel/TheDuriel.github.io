@@ -64,6 +64,8 @@ func get_save_data() -> Dictionary:
 	for furniture_object: Furniture in furniture:
 		f.append(furniture_object.get_save_data())
 	
+	d.furniture = f
+	
 	return d
 ```
 
