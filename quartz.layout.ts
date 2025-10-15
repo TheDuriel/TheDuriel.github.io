@@ -66,7 +66,11 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName)
+      },
+    }),
   ],
   right: [],
 }
