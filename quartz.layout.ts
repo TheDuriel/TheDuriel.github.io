@@ -40,7 +40,18 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName)
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+     
+        if (!a.isFolder && b.isFolder) {
+          return -1
+        } else {
+          return 1
+        }
       },
     }),
   ],
@@ -68,7 +79,18 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName)
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+     
+        if (!a.isFolder && b.isFolder) {
+          return -1
+        } else {
+          return 1
+        }
       },
     }),
   ],
