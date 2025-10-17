@@ -161,7 +161,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
     textTransform(_ctx, src) {
       // do comments at text level
       if (opts.comments) {
-        src = src.replace(commentRegex, "")
+        src = src.replace(commentRegex, "'REDACTED'")
       }
 
       // pre-transform blockquotes
