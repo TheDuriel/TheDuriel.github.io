@@ -535,6 +535,7 @@ td {
 }
 
 tr {
+  font-family: var(--bodyFont);
   border-bottom: 1px solid var(--lightgray);
   &:last-child {
     border-bottom: none;
